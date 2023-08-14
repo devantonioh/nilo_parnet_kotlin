@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">NiloPartnerOn</string>
+    <string name="product_create">Crear</string>
+    <string name="product_msg_loading">Preparando todo…</string>
+    <string name="hint_name">Nombre del producto</string>
+    <string name="hint_description"> Description</string>
+    <string name="hint_cantidad">Cantidad</string>
+    <string name="hint_price">Price</string>
+
+    <string name="hint_chat">escribe algo…</string>
+    <string name="chat_title">Soporte</string>
+
+    <string name="order_total_price">Total: $%1$.2f USD</string>
+
+    <string name="order_track_shipment">Seguir Envio</string>
+    <string name="order_status">Estado: %1$s</string>
+    <string name="order_id">ID: %1$s</string>
+    <string name="order_chat_help">Necesitas ayuda?</string>
+
+    <string name="order_title">Historial de Compras</string>
+
+    <string name="order_status_ordered">Aprovado</string>
+    <string name="order_status_preparing">Procesado</string>
+    <string name="order_status_sent">Enviado</string>
+    <string name="order_status_delivered">Entregado</string>
+    <string name="order_status_unknown">Desconocido</string>
+
+    <string name="hint_status">Estado</string>
+
+    <string name="product_dialog_delete_title">Eliminar producto?</string>
+    <string name="product_dialog_delete_msg">El producto se eliminara permanentemente.</string>
+    <string name="product_dialog_delete_confirm">Eliminar</string>
+
+    <string name="dialog_cancel" >Cancelar</string>
+    <string name="hint_title">Titulo</string>
+    <string name="hint_topic">Topic</string>
+    <string name="action_promo">Promociones</string>
+
+
+</resources>
